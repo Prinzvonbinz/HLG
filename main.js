@@ -51,7 +51,7 @@ const categories = {
     { name: "Venezuela", value: 28435943 },
     { name: "Madagaskar", value: 27691018 }
   ],
-vPromiCash: [
+PromiCash: [
     { name: "Jeff Bezos", value: 185000000000 },
     { name: "Elon Musk", value: 180000000000 },
     { name: "Bernard Arnault", value: 150000000000 },
